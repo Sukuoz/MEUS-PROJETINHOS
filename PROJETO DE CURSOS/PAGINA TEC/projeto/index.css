@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cabecalho {
+    background-color: rgb(255, 196, 70);
+    padding: 30px;
+    text-align: center;
+    
+}
+
+#area-logo {
+    padding: 10px;
+    font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.menu {
+   font-size: 20px;
+   padding: 20px;
+   word-spacing: 20px; 
+   line-height: 20px
+}
+
+
+#cabecalho a:link {
+    color: rgb(2, 2, 2);
+  }
+
+  #cabecalho :visited {
+    color: white;
+  }
+  
+  #cabecalho a:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 254, 254);
+}
+#cabecalho a:active {
+    color: black;
+  }
+
+
+  .branco {
+    color: white;
+  }
+
+  #cabecalho a {
+    text-decoration: none;
+  }
+
+  #principal {
+    width: 920px;
+    padding: 15px;
+    margin: 0 auto;
+  }
+
+
+  .lateral {
+    width: 240px;
+    float: right
+  }
+
+.conteudo {
+    width: 660px;
+    float: left;
+}
+
+
+#rodape {
+
+  clear: both;
+  text-align: center;
+  padding: 15px;
+}
+
+.post {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+h2 {
+  color: rgba(0, 153, 255, 0.945);
+}
+
+.data {
+  font-size:13px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+
+ a:link {
+  color: rgb(2, 2, 2);
+}
+
+ :visited {
+  color: rgb(0, 81, 255);
+}
+
+ a:hover {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 254, 254);
+  text-decoration: underline;
+}
+ a:active {
+  color: black;
+}
+
+
+.lateralconteudo {
+    background-color: white;
+    padding: 5px;
+    margin-bottom: 23px;
+    font-size: 14px;
+}
+
+h3 {
+  color: rgb(0, 102, 255);
+}
+
+.h22 {
+  padding: 14px;
+}
+
+.CATEGORIA {
+  font-size:16px;
+  padding: 10px;
+  margin-top: 10px;
+}
